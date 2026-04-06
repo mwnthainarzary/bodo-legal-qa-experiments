@@ -140,32 +140,32 @@
 ----------------------------------------------------
 
 
-### Model: mt5-small
+### Model: distilbert-base-multilingual-cased
 #### Dataset: Ai4Bharat
-- BLEU Score          : 0
+- BLEU Score          : 18.3426
 - ROUGE Score
-    - ROUGE-1 F1       : 0
-    - ROUGE-2 F1       : 0
-    - ROUGE-L F1       : 0
+    - ROUGE-1 F1       : 0.1763
+    - ROUGE-2 F1       : 0.0922
+    - ROUGE-L F1       : 0.1768
 - BERTScore
-    - Precision        : 0
-    - Recall           : 0
-    - F1 Score         : 0
-- Cosine Similarity  : 0
-- Exact Match        : 0 / 3985  (0.00%)
+    - Precision        : 0.6921
+    - Recall           : 0.6949
+    - F1 Score         : 0.6899
+- Cosine Similarity  : 0.6054
+- Exact Match        : 18 / 668  (2.69%)
 
 #### Dataset: IIITH
-- BLEU Score          : 0
+- BLEU Score          : 12.1039
 - ROUGE Score
-    - ROUGE-1 F1       : 0
-    - ROUGE-2 F1       : 0
-    - ROUGE-L F1       : 0
+    - ROUGE-1 F1       : 0.1615
+    - ROUGE-2 F1       : 0.0959
+    - ROUGE-L F1       : 0.1627
 - BERTScore
-    - Precision        : 0
-    - Recall           : 0
-    - F1 Score         : 0
-- Cosine Similarity  : 0
-- Exact Match        : 0 / 4000  (0.00%)
+    - Precision        : 0.6617
+    - Recall           : 0.6788
+    - F1 Score         : 0.6668
+- Cosine Similarity  : 0.5789
+- Exact Match        : 9 / 421  (2.14%)
 ----------------------------------------------------
 
 
