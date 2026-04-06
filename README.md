@@ -99,10 +99,7 @@ The script is optimized for NVIDIA Ampere GPUs (A6000, A100, RTX 30/40 series):
 | FacebookAI/xlm-roberta-base | XLM-RoBERTa | 270M | A multilingual RoBERTa model trained on 100 languages, including Bodo. |
 
 ## Results
-
-
-
-
+seet the results in RESULT.md file for detailed evaluation scores and comparisons between models on the Ai4Bharat and IIITH datasets.
 
 
 ## Contributing

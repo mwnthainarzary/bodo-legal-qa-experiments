@@ -28,7 +28,7 @@
 - Exact Match        : 15 / 421  (3.56%)
 ----------------------------------------------------
 ### Model: bert-base-multilingual-uncased
-- Dataset: Ai4Bharat
+#### Dataset: Ai4Bharat
 - BLEU Score          : 16.371
 - ROUGE Score
     - ROUGE-1 F1       : 0.1894
@@ -41,8 +41,7 @@
 - Cosine Similarity  : 0.6747
 - Exact Match        : 19 / 668  (2.84%)
 
-### Model: bert-base-multilingual-uncased
-- Dataset: IIITH
+#### Dataset: IIITH
 - BLEU Score          : 12.4516
 - ROUGE Score
     - ROUGE-1 F1       : 0.2091
@@ -57,7 +56,7 @@
 ----------------------------------------------------
 
 ### Model: indic-bert
-- Dataset: Ai4Bharat
+#### Dataset: Ai4Bharat
 - BLEU Score          : 15.5991
 - ROUGE Score
     - ROUGE-1 F1       : 0.177
@@ -70,8 +69,7 @@
 - Cosine Similarity  : 0.5698
 - Exact Match        : 23 / 668  (3.44%)
 
-### Model: indic-bert
-- Dataset: IIITH
+#### Dataset: IIITH
 - BLEU Score          : 12.4072
 - ROUGE Score
     - ROUGE-1 F1       : 0.2163
@@ -86,7 +84,7 @@
 ----------------------------------------------------
 
 ### Model: indic-bert-v2
-- Dataset: Ai4Bharat
+#### Dataset: Ai4Bharat
 - BLEU Score          : 10.2046
 - ROUGE Score
     - ROUGE-1 F1       : 0.0621
@@ -99,8 +97,7 @@
 - Cosine Similarity  : 0.5916
 - Exact Match        : 0 / 668  (0.00%)
 
-### Model: indic-bert-v2
-- Dataset: IIITH
+#### Dataset: IIITH
 - BLEU Score          : 10.6345
 - ROUGE Score
     - ROUGE-1 F1       : 0.0799
@@ -115,7 +112,7 @@
 ----------------------------------------------------
 
 ### Model: IndicBART
-- Dataset: Ai4Bharat
+#### Dataset: Ai4Bharat
 - BLEU Score          : 3.6838
 - ROUGE Score
     - ROUGE-1 F1       : 0.0739
@@ -128,8 +125,7 @@
 - Cosine Similarity  : 0.8879
 - Exact Match        : 0 / 3985  (0.00%)
 
-### Model: IndicBART
-- Dataset: IIITH
+#### Dataset: IIITH
 - BLEU Score          : 4.4095
 - ROUGE Score
     - ROUGE-1 F1       : 0.0824
@@ -145,7 +141,7 @@
 
 
 ### Model: mt5-small
-- Dataset: Ai4Bharat
+#### Dataset: Ai4Bharat
 - BLEU Score          : 0
 - ROUGE Score
     - ROUGE-1 F1       : 0
@@ -158,8 +154,7 @@
 - Cosine Similarity  : 0
 - Exact Match        : 0 / 3985  (0.00%)
 
-### Model: mt5-small
-- Dataset: IIITH
+#### Dataset: IIITH
 - BLEU Score          : 0
 - ROUGE Score
     - ROUGE-1 F1       : 0
@@ -175,7 +170,7 @@
 
 
 ### Model: xlm-roberta-base
-- Dataset: Ai4Bharat
+#### Dataset: Ai4Bharat
 - BLEU Score          : 16.2266
 - ROUGE Score
     - ROUGE-1 F1       : 0.178
@@ -188,8 +183,7 @@
 - Cosine Similarity  : 0.5985
 - Exact Match        : 22 / 668  (3.29%)
 
-### Model: xlm-roberta-base
-- Dataset: IIITH
+#### Dataset: IIITH
 - BLEU Score          : 14.929
 - ROUGE Score
     - ROUGE-1 F1       : 0.2401
