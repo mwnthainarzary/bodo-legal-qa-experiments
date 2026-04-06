@@ -33,6 +33,7 @@ source .venv/bin/activate  # Linux/Mac
 ```bash
 pip install -r requirements.txt
 pip install transformers==4.46.3 \ 
+       accelerate==0.26.0 \
        torch sentencepiece protobuf \
        evaluate sacrebleu rouge_score bert_score \
        scikit-learn matplotlib numpy
