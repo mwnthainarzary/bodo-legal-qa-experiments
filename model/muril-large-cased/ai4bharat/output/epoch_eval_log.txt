@@ -1,0 +1,98 @@
+================================================================
+Bodo QA  --  IndicBERT Per-Epoch Evaluation Log
+Last updated : 2026-04-06 14:13:22
+================================================================
+
+Epoch 1.0
+  end_acc                 : 0.0105
+  loss                    : 6.237211227416992
+  runtime                 : 4.1588
+  samples_per_second      : 160.623
+  span_acc                : 0.0
+  start_acc               : 0.0075
+  steps_per_second        : 20.198
+  step                    : 104
+
+Epoch 2.0
+  end_acc                 : 0.003
+  loss                    : 6.238326549530029
+  runtime                 : 4.1729
+  samples_per_second      : 160.08
+  span_acc                : 0.0
+  start_acc               : 0.003
+  steps_per_second        : 20.13
+  step                    : 208
+
+Epoch 3.0
+  end_acc                 : 0.0105
+  loss                    : 6.237935543060303
+  runtime                 : 4.1765
+  samples_per_second      : 159.942
+  span_acc                : 0.0
+  start_acc               : 0.0105
+  steps_per_second        : 20.112
+  step                    : 312
+
+Epoch 4.0
+  end_acc                 : 0.0225
+  loss                    : 4.804344177246094
+  runtime                 : 4.1785
+  samples_per_second      : 159.867
+  span_acc                : 0.0045
+  start_acc               : 0.0539
+  steps_per_second        : 20.103
+  step                    : 416
+
+Epoch 5.0
+  end_acc                 : 0.0524
+  loss                    : 4.492243766784668
+  runtime                 : 4.1223
+  samples_per_second      : 162.045
+  span_acc                : 0.0225
+  start_acc               : 0.0734
+  steps_per_second        : 20.377
+  step                    : 520
+
+Epoch 6.0
+  end_acc                 : 0.0569
+  loss                    : 4.412490367889404
+  runtime                 : 4.1793
+  samples_per_second      : 159.835
+  span_acc                : 0.0419
+  start_acc               : 0.0823
+  steps_per_second        : 20.099
+  step                    : 624
+
+Epoch 7.0
+  end_acc                 : 0.0614
+  loss                    : 4.43535041809082
+  runtime                 : 4.1803
+  samples_per_second      : 159.796
+  span_acc                : 0.0404
+  start_acc               : 0.0749
+  steps_per_second        : 20.094
+  step                    : 728
+
+Epoch 8.0
+  end_acc                 : 0.0674
+  loss                    : 4.59869909286499
+  runtime                 : 4.1775
+  samples_per_second      : 159.903
+  span_acc                : 0.0344
+  start_acc               : 0.0734
+  steps_per_second        : 20.108
+  step                    : 832
+
+Epoch 9.0
+  end_acc                 : 0.0584
+  loss                    : 4.8721842765808105
+  runtime                 : 4.1771
+  samples_per_second      : 159.919
+  span_acc                : 0.024
+  start_acc               : 0.0749
+  steps_per_second        : 20.11
+  step                    : 936
+
+================================================================
+Best epoch : 6.0  (eval_loss = 4.4125, lower is better)
+================================================================

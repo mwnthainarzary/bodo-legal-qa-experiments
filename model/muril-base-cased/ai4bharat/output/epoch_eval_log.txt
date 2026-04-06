@@ -1,0 +1,208 @@
+================================================================
+Bodo QA  --  IndicBERT Per-Epoch Evaluation Log
+Last updated : 2026-04-06 13:49:32
+================================================================
+
+Epoch 1.0
+  end_acc                 : 0.009
+  loss                    : 6.1037278175354
+  runtime                 : 1.37
+  samples_per_second      : 487.592
+  span_acc                : 0.0
+  start_acc               : 0.0105
+  steps_per_second        : 61.314
+  step                    : 104
+
+Epoch 2.0
+  end_acc                 : 0.0045
+  loss                    : 5.985260009765625
+  runtime                 : 1.3842
+  samples_per_second      : 482.597
+  span_acc                : 0.0
+  start_acc               : 0.0045
+  steps_per_second        : 60.686
+  step                    : 208
+
+Epoch 3.0
+  end_acc                 : 0.012
+  loss                    : 5.939103603363037
+  runtime                 : 1.3899
+  samples_per_second      : 480.595
+  span_acc                : 0.0
+  start_acc               : 0.0254
+  steps_per_second        : 60.434
+  step                    : 312
+
+Epoch 4.0
+  end_acc                 : 0.0135
+  loss                    : 5.8903303146362305
+  runtime                 : 1.3929
+  samples_per_second      : 479.591
+  span_acc                : 0.0
+  start_acc               : 0.0225
+  steps_per_second        : 60.308
+  step                    : 416
+
+Epoch 5.0
+  end_acc                 : 0.0075
+  loss                    : 5.840411186218262
+  runtime                 : 1.3711
+  samples_per_second      : 487.209
+  span_acc                : 0.0
+  start_acc               : 0.0284
+  steps_per_second        : 61.266
+  step                    : 520
+
+Epoch 6.0
+  end_acc                 : 0.006
+  loss                    : 5.7855377197265625
+  runtime                 : 1.3991
+  samples_per_second      : 477.452
+  span_acc                : 0.0
+  start_acc               : 0.0404
+  steps_per_second        : 60.039
+  step                    : 624
+
+Epoch 7.0
+  end_acc                 : 0.003
+  loss                    : 5.744272232055664
+  runtime                 : 1.3984
+  samples_per_second      : 477.699
+  span_acc                : 0.0
+  start_acc               : 0.018
+  steps_per_second        : 60.07
+  step                    : 728
+
+Epoch 8.0
+  end_acc                 : 0.0015
+  loss                    : 5.696050643920898
+  runtime                 : 1.3991
+  samples_per_second      : 477.439
+  span_acc                : 0.0
+  start_acc               : 0.021
+  steps_per_second        : 60.037
+  step                    : 832
+
+Epoch 9.0
+  end_acc                 : 0.0045
+  loss                    : 5.71264123916626
+  runtime                 : 1.3987
+  samples_per_second      : 477.599
+  span_acc                : 0.0
+  start_acc               : 0.0254
+  steps_per_second        : 60.057
+  step                    : 936
+
+Epoch 10.0
+  end_acc                 : 0.015
+  loss                    : 5.63048791885376
+  runtime                 : 1.3751
+  samples_per_second      : 485.77
+  span_acc                : 0.0
+  start_acc               : 0.0404
+  steps_per_second        : 61.085
+  step                    : 1040
+
+Epoch 11.0
+  end_acc                 : 0.0135
+  loss                    : 5.565622806549072
+  runtime                 : 1.3991
+  samples_per_second      : 477.457
+  span_acc                : 0.0
+  start_acc               : 0.0344
+  steps_per_second        : 60.04
+  step                    : 1144
+
+Epoch 12.0
+  end_acc                 : 0.0195
+  loss                    : 5.542693138122559
+  runtime                 : 1.4009
+  samples_per_second      : 476.844
+  span_acc                : 0.003
+  start_acc               : 0.0419
+  steps_per_second        : 59.962
+  step                    : 1248
+
+Epoch 13.0
+  end_acc                 : 0.0299
+  loss                    : 5.560114860534668
+  runtime                 : 1.3994
+  samples_per_second      : 477.363
+  span_acc                : 0.006
+  start_acc               : 0.0329
+  steps_per_second        : 60.028
+  step                    : 1352
+
+Epoch 14.0
+  end_acc                 : 0.021
+  loss                    : 5.50737190246582
+  runtime                 : 1.3999
+  samples_per_second      : 477.173
+  span_acc                : 0.009
+  start_acc               : 0.0434
+  steps_per_second        : 60.004
+  step                    : 1456
+
+Epoch 15.0
+  end_acc                 : 0.0135
+  loss                    : 5.513448715209961
+  runtime                 : 1.3747
+  samples_per_second      : 485.918
+  span_acc                : 0.0
+  start_acc               : 0.0374
+  steps_per_second        : 61.103
+  step                    : 1560
+
+Epoch 16.0
+  end_acc                 : 0.012
+  loss                    : 5.497268199920654
+  runtime                 : 1.4
+  samples_per_second      : 477.154
+  span_acc                : 0.0
+  start_acc               : 0.0464
+  steps_per_second        : 60.001
+  step                    : 1664
+
+Epoch 17.0
+  end_acc                 : 0.0195
+  loss                    : 5.475320816040039
+  runtime                 : 1.3994
+  samples_per_second      : 477.348
+  span_acc                : 0.0045
+  start_acc               : 0.0509
+  steps_per_second        : 60.026
+  step                    : 1768
+
+Epoch 18.0
+  end_acc                 : 0.0165
+  loss                    : 5.467239856719971
+  runtime                 : 1.3984
+  samples_per_second      : 477.687
+  span_acc                : 0.0015
+  start_acc               : 0.0464
+  steps_per_second        : 60.068
+  step                    : 1872
+
+Epoch 19.0
+  end_acc                 : 0.009
+  loss                    : 5.464784622192383
+  runtime                 : 1.3995
+  samples_per_second      : 477.326
+  span_acc                : 0.0015
+  start_acc               : 0.0434
+  steps_per_second        : 60.023
+  step                    : 1976
+
+Epoch 20.0
+  end_acc                 : 0.012
+  loss                    : 5.462209701538086
+  runtime                 : 1.3672
+  samples_per_second      : 488.589
+  span_acc                : 0.003
+  start_acc               : 0.0479
+  steps_per_second        : 61.439
+  step                    : 2080
+
+================================================================
+Best epoch : 20.0  (eval_loss = 5.4622, lower is better)
+================================================================

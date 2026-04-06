@@ -60,6 +60,9 @@ List of Model Used:
 5. ai4bharat/IndicBERTv2-MLM-Back-TLM
 6. ai4bharat/IndicBART
 7. FacebookAI/xlm-roberta-base
+8. FacebookAI/xlm-roberta-large
+9. google/muril-base-cased
+10. google/muril-large-cased
 
 ### Output Folder
 # Output files in output_dir/:

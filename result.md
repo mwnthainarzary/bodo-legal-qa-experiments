@@ -196,3 +196,87 @@
 - Cosine Similarity  : 0.8113
 - Exact Match        : 10 / 421  (2.38%)
 ----------------------------------------------------
+
+### Model: xlm-roberta-large
+#### Dataset: Ai4Bharat
+- BLEU Score          : 18.2076
+- ROUGE Score
+    - ROUGE-1 F1       : 0.1828
+    - ROUGE-2 F1       : 0.1154
+    - ROUGE-L F1       : 0.1827
+- BERTScore
+    - Precision        : 0.6845
+    - Recall           : 0.7064
+    - F1 Score         : 0.6913
+- Cosine Similarity  : 0.7029
+- Exact Match        : 18 / 668  (2.69%)
+
+#### Dataset: IIITH
+- BLEU Score          : 17.0336
+- ROUGE Score
+    - ROUGE-1 F1       : 0.215
+    - ROUGE-2 F1       : 0.1447
+    - ROUGE-L F1       : 0.2159
+- BERTScore
+    - Precision        : 0.6801
+    - Recall           : 0.7076
+    - F1 Score         : 0.6893
+- Cosine Similarity  : 0.8279
+- Exact Match        : 15 / 421  (3.56%)
+----------------------------------------------------
+
+### Model: muril-base-cased
+#### Dataset: Ai4Bharat
+- BLEU Score          : 15.7084
+- ROUGE Score
+    - ROUGE-1 F1       : 0.2772
+    - ROUGE-2 F1       : 0.1599
+    - ROUGE-L F1       : 0.2771
+- BERTScore
+    - Precision        : 0.6632
+    - Recall           : 0.7529
+    - F1 Score         : 0.7017
+- Cosine Similarity  : 0.8349
+- Exact Match        : 3 / 668  (0.45%)
+
+#### Dataset: IIITH
+- BLEU Score          : 7.0947
+- ROUGE Score
+    - ROUGE-1 F1       : 0.1789
+    - ROUGE-2 F1       : 0.1342
+    - ROUGE-L F1       : 0.1794
+- BERTScore
+    - Precision        : 0.6024
+    - Recall           : 0.7056
+    - F1 Score         : 0.6466
+- Cosine Similarity  : 0.7938
+- Exact Match        : 0 / 421  (0.00%)
+----------------------------------------------------
+
+### Model: muril-large-cased
+#### Dataset: Ai4Bharat
+- BLEU Score          : 18.1024
+- ROUGE Score
+    - ROUGE-1 F1       : 0.1385
+    - ROUGE-2 F1       : 0.0773
+    - ROUGE-L F1       : 0.1385
+- BERTScore
+    - Precision        : 0.6837
+    - Recall           : 0.7022
+    - F1 Score         : 0.6899
+- Cosine Similarity  : 0.7408
+- Exact Match        : 26 / 668  (3.89%)
+
+#### Dataset: IIITH
+- BLEU Score          : 15.59
+- ROUGE Score
+    - ROUGE-1 F1       : 0.1937
+    - ROUGE-2 F1       : 0.114
+    - ROUGE-L F1       : 0.1934
+- BERTScore
+    - Precision        : 0.6674
+    - Recall           : 0.6961
+    - F1 Score         : 0.6775
+- Cosine Similarity  : 0.5117
+- Exact Match        : 11 / 421  (2.61%)
+----------------------------------------------------
