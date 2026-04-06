@@ -1,8 +1,8 @@
 ## Results
 - Model: bert-base-multilingual-cased
-1 Dataset: Ai4Bharat
-2 BLEU Score          : 15.7067
-3 ROUGE Score
+- Dataset: Ai4Bharat
+- BLEU Score          : 15.7067
+- ROUGE Score
     * ROUGE-1 F1       : 0.1559
     * ROUGE-2 F1       : 0.0922
     * ROUGE-L F1       : 0.155
