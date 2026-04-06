@@ -12,7 +12,7 @@
     - F1 Score         : 0.6858
 - Cosine Similarity  : 0.6915
 - Exact Match        : 16 / 668  (2.40%)
-----------------------------------------------------
+
 - Model: bert-base-multilingual-cased
 - Dataset: IIITH
 - BLEU Score          : 15.4152
@@ -40,7 +40,7 @@
     - F1 Score         : 0.6918
 - Cosine Similarity  : 0.6747
 - Exact Match        : 19 / 668  (2.84%)
-----------------------------------------------------
+
 - Model: bert-base-multilingual-uncased
 - Dataset: IIITH
 - BLEU Score          : 12.4516
@@ -69,7 +69,7 @@
     - F1 Score         : 0.6902
 - Cosine Similarity  : 0.5698
 - Exact Match        : 23 / 668  (3.44%)
-----------------------------------------------------
+
 - Model: indic-bert
 - Dataset: IIITH
 - BLEU Score          : 12.4072
@@ -98,7 +98,7 @@
     - F1 Score         : 0.6637
 - Cosine Similarity  : 0.5916
 - Exact Match        : 0 / 668  (0.00%)
-----------------------------------------------------
+
 - Model: indic-bert-v2
 - Dataset: IIITH
 - BLEU Score          : 10.6345
@@ -127,7 +127,7 @@
     - F1 Score         : 0.6719
 - Cosine Similarity  : 0.8879
 - Exact Match        : 0 / 3985  (0.00%)
-----------------------------------------------------
+
 - Model: IndicBART
 - Dataset: IIITH
 - BLEU Score          : 4.4095
@@ -157,7 +157,7 @@
     - F1 Score         : 0
 - Cosine Similarity  : 0
 - Exact Match        : 0 / 3985  (0.00%)
-----------------------------------------------------
+
 - Model: mt5-small
 - Dataset: IIITH
 - BLEU Score          : 0
@@ -187,7 +187,7 @@
     - F1 Score         : 0.6941
 - Cosine Similarity  : 0.5985
 - Exact Match        : 22 / 668  (3.29%)
-----------------------------------------------------
+
 - Model: xlm-roberta-base
 - Dataset: IIITH
 - BLEU Score          : 14.929
