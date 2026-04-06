@@ -1,5 +1,5 @@
 ## Results
--- Model: bert-base-multilingual-cased
+- - Model: bert-base-multilingual-cased
 - Dataset: Ai4Bharat
 - BLEU Score          : 15.7067
 - ROUGE Score
@@ -13,7 +13,7 @@
 - Cosine Similarity  : 0.6915
 - Exact Match        : 16 / 668  (2.40%)
 
--- Model: bert-base-multilingual-cased
+- - Model: bert-base-multilingual-cased
 - Dataset: IIITH
 - BLEU Score          : 15.4152
 - ROUGE Score
