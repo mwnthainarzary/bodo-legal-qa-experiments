@@ -1,0 +1,6 @@
+# ignore checkpoints
+checkpoint-*
+final_model
+.venv
+# ignore logs
+logs

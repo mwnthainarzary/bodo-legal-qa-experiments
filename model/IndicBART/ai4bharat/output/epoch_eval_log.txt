@@ -1,0 +1,52 @@
+==============================================================
+Bodo QA Seq2Seq  --  Per-Epoch Evaluation Log
+Last updated : 2026-04-03 11:02:27
+==============================================================
+
+Epoch 0.9991823385118561
+  bleu                    : 4.1665
+  loss                    : 6.728535175323486
+  rouge1                  : 0.0807
+  rouge2                  : 0.034
+  rougeL                  : 0.0801
+  runtime                 : 237.3882
+  samples_per_second      : 16.787
+  steps_per_second        : 2.102
+  step                    : 611
+
+Epoch 1.9987735077677842
+  bleu                    : 0.0009
+  loss                    : nan
+  rouge1                  : 0.0
+  rouge2                  : 0.0
+  rougeL                  : 0.0
+  runtime                 : 234.967
+  samples_per_second      : 16.96
+  steps_per_second        : 2.124
+  step                    : 1222
+
+Epoch 2.9983646770237122
+  bleu                    : 0.0009
+  loss                    : nan
+  rouge1                  : 0.0
+  rouge2                  : 0.0
+  rougeL                  : 0.0
+  runtime                 : 234.9291
+  samples_per_second      : 16.963
+  steps_per_second        : 2.124
+  step                    : 1833
+
+Epoch 3.999591169255928
+  bleu                    : 0.0009
+  loss                    : nan
+  rouge1                  : 0.0
+  rouge2                  : 0.0
+  rougeL                  : 0.0
+  runtime                 : 235.2691
+  samples_per_second      : 16.938
+  steps_per_second        : 2.121
+  step                    : 2445
+
+==============================================================
+Best epoch : 0.9991823385118561  (bleu = 4.1665, higher is better)
+==============================================================

@@ -1,0 +1,68 @@
+================================================================
+Bodo QA  --  IndicBERT Per-Epoch Evaluation Log
+Last updated : 2026-04-06 07:58:37
+================================================================
+
+Epoch 1.0
+  end_acc                 : 0.0314
+  loss                    : 5.197241306304932
+  runtime                 : 1.4255
+  samples_per_second      : 468.595
+  span_acc                : 0.0105
+  start_acc               : 0.0404
+  steps_per_second        : 58.925
+  step                    : 104
+
+Epoch 2.0
+  end_acc                 : 0.0389
+  loss                    : 4.894750118255615
+  runtime                 : 1.4416
+  samples_per_second      : 463.375
+  span_acc                : 0.0269
+  start_acc               : 0.0629
+  steps_per_second        : 58.269
+  step                    : 208
+
+Epoch 3.0
+  end_acc                 : 0.0509
+  loss                    : 4.704181671142578
+  runtime                 : 1.4471
+  samples_per_second      : 461.619
+  span_acc                : 0.0344
+  start_acc               : 0.0659
+  steps_per_second        : 58.048
+  step                    : 312
+
+Epoch 4.0
+  end_acc                 : 0.0464
+  loss                    : 4.719338417053223
+  runtime                 : 1.4516
+  samples_per_second      : 460.18
+  span_acc                : 0.0344
+  start_acc               : 0.0689
+  steps_per_second        : 57.867
+  step                    : 416
+
+Epoch 5.0
+  end_acc                 : 0.0629
+  loss                    : 4.8145928382873535
+  runtime                 : 1.4387
+  samples_per_second      : 464.297
+  span_acc                : 0.0329
+  start_acc               : 0.0689
+  steps_per_second        : 58.385
+  step                    : 520
+
+Epoch 6.0
+  end_acc                 : 0.0644
+  loss                    : 4.877808570861816
+  runtime                 : 1.4564
+  samples_per_second      : 458.652
+  span_acc                : 0.0389
+  start_acc               : 0.0719
+  steps_per_second        : 57.675
+  step                    : 624
+
+================================================================
+Best epoch : 3.0  (eval_loss = 4.7042, lower is better)
+================================================================

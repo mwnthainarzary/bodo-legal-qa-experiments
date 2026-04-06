@@ -1,0 +1,48 @@
+================================================================
+Bodo QA  --  IndicBERT Hyperparameters
+Saved              : 2026-04-06 08:04:44
+================================================================
+
+Model
+  model_name           : google-bert/bert-base-multilingual-uncased
+  hf_architecture      : BertForQuestionAnswering
+  base_architecture    : ALBERT (parameter-shared encoder)
+  head                 : AutoModelForQuestionAnswering
+  tokenizer_type       : AlbertTokenizerFast (from_slow=True, supports offset_mapping)
+  indic_languages      : 12 (Assamese, Hindi, Bengali, ...)
+
+Data
+  train_path           : data/train.json
+  test_path            : data/test.json
+  train_samples        : 2119
+  test_samples         : 421
+  max_context_chars    : 512
+
+Tokenisation
+  vocab_size           : 105879
+  max_len              : 512
+  doc_stride           : 128
+  truncation           : only_second (context only)
+
+Optimisation
+  epochs               : 20
+  batch_size           : 8
+  grad_accum_steps     : 4
+  effective_batch      : 32
+  learning_rate        : 2e-05
+  lr_scheduler         : linear
+  warmup_ratio         : 0.1
+  weight_decay         : 0.01
+  gradient_clip        : 1.0 (HuggingFace default)
+
+Span Extraction (inference)
+  n_best               : 20
+  max_answer_length    : 50 tokens
+
+Runtime
+  seed                 : 42
+  fp16                 : True
+  device               : cuda
+  output_dir           : output
+
+================================================================
