@@ -53,7 +53,7 @@ python model/dataset_name{ai4bharat/iiith}/model.py \
        --epochs      20
 
 List of Model Used:
-1. google/mt5-small
+1. distilbert/distilbert-base-multilingual-cased
 2. google-bert/bert-base-multilingual-cased
 3. google-bert/bert-base-multilingual-uncased
 4. ai4bharat/indic-bert
